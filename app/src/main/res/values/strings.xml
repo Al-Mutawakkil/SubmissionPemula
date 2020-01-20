@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeautifulMosque</string>
+    <string name="masjid_name">Nama Masjid</string>
+    <string name="detail_data">Detail Masjid</string>
+    <string name="description">Description</string>
+    <string name="namaku">Thufail Adib Al-Mutawakkil</string>
+    <string name="akunku">Thufails505@gmail.com</string>
+    <string name="title">Title</string>
+    <string name="splash_screen">Beautiful Mosque</string>
+</resources>
